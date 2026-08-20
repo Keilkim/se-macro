@@ -1,13 +1,13 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.0",
   "released": "2026-08-20",
   "installer": "SE_Macro_Setup.bat",
   "downloadUrl": "https://github.com/Keilkim/se-macro/releases/latest/download/SE_Macro_Setup.bat",
   "notesUrl": "https://github.com/Keilkim/se-macro/releases/latest",
   "notes": [
-    "창 디자인 정리 - 글자 위계, 8배수 여백, 알림 색을 네 가지로 통일",
-    "설치 창의 옵션들을 관련된 것끼리 묶어 한눈에 들어오게 했습니다",
+    "SE메뉴가 자주 쓰는 26개만 보여 줍니다 - 설정·진단 17개는 검색하면 나옵니다",
+    "창 디자인 정리 (1.3.0)",
     "설치 진행률 표시 (1.2.0)",
-    "넘버링 설정 창 - 좌우 나눔·여백·미리보기 (1.1.0)"
+    "넘버링 설정 창 (1.1.0)"
   ]
 }
