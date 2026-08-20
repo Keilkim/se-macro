@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "released": "2026-08-20",
+  "installer": "SE_Macro_Setup.bat",
+  "downloadUrl": "https://github.com/Keilkim/se-macro/releases/latest/download/SE_Macro_Setup.bat",
+  "notesUrl": "https://github.com/Keilkim/se-macro/releases/latest",
+  "notes": [
+    "SE메뉴 런처 추가 - 전체 기능을 한 창에서 분류/검색해 실행",
+    "설치 파일이 하나로 합쳐졌습니다 (더블클릭 한 번)",
+    "새 버전이 나오면 SE메뉴가 알려 줍니다",
+    "색상 팔레트 모듈 정리 (내부 구조 개선)",
+    "Alt+F8 목록 41개 -> 32개 (단축키는 그대로)"
+  ]
+}
