@@ -1,12 +1,13 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "released": "2026-08-20",
   "installer": "SE_Macro_Setup.bat",
   "downloadUrl": "https://github.com/Keilkim/se-macro/releases/latest/download/SE_Macro_Setup.bat",
   "notesUrl": "https://github.com/Keilkim/se-macro/releases/latest",
   "notes": [
-    "사용설명서를 이제 어디서든 볼 수 있습니다 - 관리자 창의 [사용설명서 보기], SE메뉴의 [사용설명서 열기]",
-    "설치가 끝나면 다음에 할 일 3단계를 알려 줍니다",
+    "사용설명서의 낡은 안내를 고쳤습니다 - 업데이트 방법이 실제와 달랐습니다",
+    "설치 파일에서 쓰이지 않는 파일 3개를 뺐습니다",
+    "사용설명서를 어디서든 볼 수 있습니다 (1.5.0)",
     "SE메뉴가 자주 쓰는 27개만 표시 (1.4.0)"
   ]
 }
